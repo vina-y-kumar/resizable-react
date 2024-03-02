@@ -1,4 +1,4 @@
-// server.js file making server
+// server.js file making serve
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
